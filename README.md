@@ -17,7 +17,6 @@ My name is Ricardo Ribeiro. I'm a Software Developer. I'm participating in a Ful
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="express"/> 
   <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=40&color=currentColor"/> 
   <img src="https://icongr.am/devicon/php-original.svg?size=40&color=currentColor"/> 
-  
   <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor"/> 
   <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=40&color=currentColor"/> 
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=currentColor"/> 
@@ -30,6 +29,6 @@ My name is Ricardo Ribeiro. I'm a Software Developer. I'm participating in a Ful
 
 ### 📫 How to reach me
 
-- 💬 [Whatsapp](https://api.whatsapp.com/send?phone=5584994871533&text=Hi%20there!)
-- 📧 [email](mailto:ricardoribeiro.dev@gmail.com)
+- 💬 Phone: +55 84 99487-1533 [Whatsapp](https://api.whatsapp.com/send?phone=5584994871533&text=Hi%20there!)
+- 📧 Email: ricardoribeiro.dev@gmail.com
 
